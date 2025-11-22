@@ -5,9 +5,9 @@ lua54 'yes'
 game 'gta5'
 
 --#--Resource Info--#--
-version '1.0.4'
-author 'Arius Scripts'
-description 'Advanced ambulance job with intergrated death system'
+version '0.0.1'
+author 'Moritz und Arius Scripts'
+description 'Krankenhaus job basierend auf dem EMS job'
 
 
 --#--Shared Scripts--#--
@@ -57,3 +57,4 @@ files {
 	"data/*.lua",
 	'config.lua',
 }
+
