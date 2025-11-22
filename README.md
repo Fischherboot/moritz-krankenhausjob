@@ -1,3 +1,8 @@
+
+**Dieser Job ist für den RP server Hauptstadt Life RP umgeschrieben damit die Krankenhaus mitarbeiter dasselbe health menu nutzen.**
+https://discord.gg/6nserEMx5d
+
+
 ![06](https://github.com/Arius-Development/ars_ambulancejob/assets/70983185/5cbe1ee4-b75c-4134-87ee-99fb4c651bf8)
 
 Experience the intensity of emergency response in Arius Ambulance Job :ambulance:! Transport patients, deliver critical care, and immerse yourself in hyper-realistic roleplay and more. Ready to be the hero on the front lines?
@@ -58,3 +63,4 @@ Experience the intensity of emergency response in Arius Ambulance Job :ambulance
 [Documentation](https://docs.arius-scripts.com)
 
 Feel free to provide suggestions and report any bugs you encounter. Your feedback is invaluable to us as we continue to improve the script. Enjoy!
+
